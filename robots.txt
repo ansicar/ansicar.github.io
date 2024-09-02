@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ansicar.github.io/sitemap.html.gz
+Sitemap: https://ansicar.github.io/app/sitemap.html.gz
+Sitemap: https://ansicar.github.io/assets/sitemap.html.gz
+Sitemap: https://ansicar.github.io/css/sitemap.html.gz
+Sitemap: https://ansicar.github.io/includes/sitemap.html.gz
+Sitemap: https://ansicar.github.io/item/sitemap.html.gz
+Sitemap: https://ansicar.github.io/src/sitemap.html.gz
